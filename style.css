@@ -227,6 +227,7 @@ section{
 }
 .about .row .content h3{
     font-size: 3rem;
+    text-transform: none;
     color: #fff;
 }
 .about .row .content p{
@@ -312,11 +313,10 @@ section{
 }
 .products .box-container .box .content .price{
     color: #fff;
-    font-size: 2.5rem;
+    line-height: 3rem;
 }
 .products .box-container .box .content .price span{
-    font-size: 1.5rem;
-    text-decoration: line-through;
+    font-size: 2rem;    
     font-weight: lighter;
 }
 
@@ -369,8 +369,8 @@ section{
     text-align: center;
 }
 .contact .row form h3{
-    text-transform: uppercase;
-    font-size: 3.5rem;
+    text-transform: none;
+    font-size: 3rem;
     color: #fff;
 }
 .contact .row form .inputBox{
